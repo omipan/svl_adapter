@@ -106,5 +106,5 @@ If you find our work useful in your research please consider citing our paper:
 }
 ```
 ## Acknowledgements
-This codebase has benefited from [CLIP](https://github.com/openai/CLIP), [CoOp](https://github.com/KaiyangZhou/CoOp) and [Focus on the Positives](https://github.com/
+This codebase has benefited from [CLIP](https://github.com/openai/CLIP), [CoOp](https://github.com/KaiyangZhou/CoOp) and [FocusOnThePositives](https://github.com/
 omipan/camera_traps_self_supervised) GitHub repositories.
