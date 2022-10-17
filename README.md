@@ -92,8 +92,9 @@ python feature_extraction.py --dataset 'eurosat'  --model_type 'ssl' --model_sub
 python feature_extraction.py --dataset 'eurosat'  --model_type 'clip' --model_subtype 'RN50' --feature_path 'data/eurosat/pretrained_features/' --use_pseudo --pseudo_conf '16shot' --pseudolabel_model 'clip_RN50'
 ```
 ### SVL-Adapter* for Zero-Shot Learning
+```
 python zero_shot_pseudo_adapt.py --dataset 'eurosat' --feature_path 'data/eurosat/pretrained_features/' --pretrained_model 'simclr_RN50'  --pseudolabel_model 'clip_RN50' --pseudo_conf '16shot' --finetune_type 'mlp_adapter'
-
+```
 
 ## Reference
 If you find our work useful in your research please consider citing our paper:
