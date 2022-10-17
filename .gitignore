@@ -1,0 +1,6 @@
+data/
+ssl_pretraining/
+report/
+scripts/
+zero_shot_eval.py
+__pycache__/

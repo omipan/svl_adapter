@@ -1,0 +1,7 @@
+regex
+ftfy
+tqdm
+pillow==9.0.1
+scikit-learn==1.0.1
+scipy==1.6.1
+numpy==1.19.2
