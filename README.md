@@ -32,7 +32,7 @@ Follow [DATASET.md](https://github.com/omipan/svl_adapter/blob/main/DATASET.md) 
 
 
 ## Data Preparation
-First, we Generate a metadata file with common format across datasets to handle data across all stages (self-supervised pretraining, low-shot learning etc.)
+First, we generate a metadata file with common format across datasets to handle data across all stages (self-supervised pretraining, low-shot learning etc.)
 ```
 python data_preparation.py --dataset eurosat
 ```
