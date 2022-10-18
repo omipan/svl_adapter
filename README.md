@@ -1,5 +1,5 @@
 # SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models
-Official implementation of SVL-Adapter, presented in BMVC 2022 [paper](https://arxiv.org/abs/2210.03794).
+Official implementation of SVL-Adapter, presented in our BMVC 2022 [paper](https://arxiv.org/abs/2210.03794).
 
 ![Overview of SVL-Adapter approach](figs/svl_adapter.png)
 
