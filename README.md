@@ -21,7 +21,7 @@ conda activate svl_adapter
 
 # Install Requirements
 pip install -r requirements.txt
-conda install pytorch==1.12.1 torchvision==0.13.1 cudatoolkit=11.6 -c pytorch -c conda-forge
+pip install torch==1.12.1+cu116 torchvision==0.13.1+cu116 --extra-index-url https://download.pytorch.org/whl/cu116
 
 # Install CLIP
 pip install git+https://github.com/openai/CLIP.git
