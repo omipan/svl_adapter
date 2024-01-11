@@ -1,6 +1,8 @@
 regex
 ftfy
 tqdm
+torchvision==0.13.1
+cudatoolkit==11.6.0 
 pillow==9.0.1
 scikit-learn==1.0.1
 scipy==1.6.1
